@@ -1,0 +1,23 @@
+﻿my\_project.\_version
+=====================
+
+.. automodule:: my_project._version
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+
+

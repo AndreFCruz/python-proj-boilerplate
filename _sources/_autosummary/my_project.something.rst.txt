@@ -1,0 +1,29 @@
+﻿my\_project.something
+=====================
+
+.. automodule:: my_project.something
+
+   
+   
+   
+
+   
+   
+   .. rubric:: Functions
+
+   .. autosummary::
+   
+      foo
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+
+
