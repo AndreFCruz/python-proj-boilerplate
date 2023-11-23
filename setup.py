@@ -45,22 +45,13 @@ requirements = load_requirements(REQUIREMENTS_PATH)
 requirements_test = load_requirements(REQUIREMENTS_TEST_PATH)
 
 
-# ---------------------------------------------------------------------------- #
-#                                   Version                                    #
-# ---------------------------------------------------------------------------- #
-SRC_PATH = ROOT_PATH / 'src' / 'my_project'
-VERSION_PATH = SRC_PATH / '_version.py'
-
-with VERSION_PATH.open('rb') as version_file:
-    exec(version_file.read())
-
 
 # ---------------------------------------------------------------------------- #
 #                                   SETUP                                      #
 # ---------------------------------------------------------------------------- #
 setup(
     name="my-project-andre",
-    version=__version__,
+    version="0.1.2",
     description="Example boilerplate for a simple Python project",
     keywords=["boilerplate"],
 
