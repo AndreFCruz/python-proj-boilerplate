@@ -13,14 +13,11 @@ Module Summary
    :toctree: _autosummary
 
 
-.. .. automodule:: something
-..     :members:
+Readme
+======
 
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-
+.. include:: ../README.md
+   :parser: myst_parser.sphinx_
 
 
 Indices and tables

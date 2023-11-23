@@ -27,6 +27,7 @@ extensions = [
     'sphinx.ext.napoleon',
     'sphinx.ext.autosummary',
     'sphinx_autopackagesummary',
+    'myst_parser',
 ]
 
 autosummary_generate = True  # Turn on sphinx.ext.autosummary
